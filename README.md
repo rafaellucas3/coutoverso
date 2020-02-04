@@ -2,7 +2,7 @@
 Um script que responde de formas inusitadas uma conta do tuíter que você quiser. Por hora temos o coutoBinario que é um bot que responde em binário tudo que a pessoa tuíta e o coutoNervoso que é uma versão mais irritada que responde tudo em maiúsculo e ainda adiciona umas gracinhas no começo e no fim do tuíte. Programado em Python 3.8 e usando o Tweepy. 
 
 ## Uso
-Só colocar o @ que você quiser, as chaves de API e rodar o script = profit.
+Só colocar o @ que você quiser, as chaves de API do twitter developer e rodar o script = profit.
 
 ## Intalação
 1. Instale o python do site https://www.python.org/.
