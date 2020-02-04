@@ -22,7 +22,7 @@ def coutoBinario():
     api = tweepy.API(auth, parser=tweepy.parsers.JSONParser())
 
     #conta a ser analisada
-    acc = "couto_aranha" 
+    acc = "ContaDoTuíter" 
 
     #taxa de verificação em segundos
     sec = 60
@@ -74,7 +74,7 @@ def coutoNervoso():
     api = tweepy.API(auth, parser=tweepy.parsers.JSONParser())
 
     #conta a ser analisada
-    acc = "couto_aranha" 
+    acc = "ContaDoTuíter" 
 
     #taxa de verificação em segundos
     sec = 60
