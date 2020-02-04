@@ -61,10 +61,10 @@ def coutoNervoso():
     Aonde a lógica central vive. 
     '''
     #Twitter developer API tokens
-    consumer_key = "RUQOYQD58ENEhsdcH4VC9JD1W"
-    consumer_secret = "8sqQiupQY4hXsezSK3ezFghHqF5omeKMVXYhplmJJTFnrSqOJ2"
-    access_token = "1223026531984990210-RsJdi1xwt3AD5irxVnpJyRTERQeYK7"
-    access_token_secret = "4DVhSgGZEp37rpWOe0y03sMak4YOwVbDulN5HpsjUzLkc"  
+    consumer_key = "XXXXXXX"
+    consumer_secret = "XXXXXXXX"
+    access_token = "XXXXXXXX"
+    access_token_secret = "XXXXXXXX"  
 
     #autenticar
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
