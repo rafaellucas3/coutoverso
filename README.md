@@ -7,7 +7,7 @@ Só colocar o @ que você quiser, as chaves de API do twitter developer e rodar 
 ## Intalação
 1. Instale o python do site https://www.python.org/.
 2. Depois rode o comando 'pip intall tweepy' no seu terminal para instalar o módulo Tweepy.
-3. No terminal, navegue até a pasta que você baixou o coutoverso e digite: 'python coutoverso'
+3. No terminal, navegue até a pasta que você baixou o coutoverso e digite: 'python coutobinario.py'
 
 ## Créditos
 85% @rafaellucas3 
